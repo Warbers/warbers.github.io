@@ -8,7 +8,11 @@ function onloaddo(f) {
 
 const finished = "finished";
 const unfinished = "unfinished";
-const githubRepo = (base) => "https://github.com/Warbers/" + base;
+
+const github_uname = "warbers";
+const github_repos = `https://github.com/${github_uname}/`;
+const github_pages = `https://${github_uname}.github.com/`;
+
 const rawContent = (base) => "https://raw.githubusercontent.com/Warbers/" + base + "/master/README.md";
 
 function readTextFile(file, callback)
@@ -52,19 +56,24 @@ let projects = [
     //     tasks: gen_tasks(3, 4),
     // },
     {
-        titleOverride: "Github Pages",
-        title: "warbers.github.io",
-        linkOverride: "https://warbers.github.io",
+        title: "Github Pages",
+        subtitle: "warbers.github.io",
+        demo_link: github_pages,
         desc: "You are here right now",
+        progress_p: 5,
     },
     {
-        title: "Lexer", 
+        title: "Lexer",
+        repo_link: github_repos + "lexer",
         desc: "My lexer that still needs a lot of work",
+        progress_p: 30,
     },
     {
-        title: "RISC16", 
-        linkOverride: "/cpu.html",
-        desc: "RiSC 16 emulator",
+        title: "RISC16",
+        repo_link: github_repos + "risc16",
+        demo_link: "/cpu.html",
+        desc: "RiSC 16 emulator written is javascript",
+        progress_p: 25,
     },
     // {
     //     title: "idk", 
@@ -129,7 +138,7 @@ function createProgressBarB(e) {
 
 function createSimpleProgressBar(progress) {
     let prog = document.createElement("div");
-    prog.style.width = (progress * 100) + "%";
+    prog.style.width = progress + "%";
     let base = document.createElement("div");
     base.className = "progress-bar";
     base.appendChild(prog);
@@ -139,20 +148,31 @@ function createSimpleProgressBar(progress) {
 onloaddo(() => {
     projects.forEach((el) => {
         let header = document.createElement("h2");
-        header.innerText = el.titleOverride ?? el.title;
-        let link = document.createElement("a");
-        let linkAddr = el.linkOverride ?? githubRepo(el.title);
-        link.innerText = linkAddr;
-        link.href = linkAddr;
+        header.innerText = el.title;
         let desc = document.createElement("p");
         desc.innerText = el.desc;
         let card = document.createElement("div");
         card.className = "card";
         card.appendChild(header);
-        card.appendChild(link);
+        if (el.subtitle) {
+            let subt = document.createElement("h3");
+
+            subt.innerText = el.subtitle;
+            card.appendChild(subt);
+        }
+        if (el.demo_link) {
+            let demo_txt = document.createElement("p");
+            demo_txt.innerHTML = "Repository: <a href = \"" + el.demo_link + "\">" + el.demo_link + "</a>";
+            card.appendChild(demo_txt);
+        }
+        if (el.repo_link) {
+            let repo_txt = document.createElement("p");
+            repo_txt.innerHTML = "Link to demo: <a href = \"" + el.repo_link + "\">" + el.repo_link + "</a>";
+            card.appendChild(repo_txt);
+        }
         card.appendChild(desc);
-        if (!el.linkOverride) {
-            card.appendChild(createProgressBarB(el));
+        if (el.progress_p) {
+            card.appendChild(createSimpleProgressBar(el.progress_p));
         }
         document.body.appendChild(card);
     });
