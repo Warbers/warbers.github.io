@@ -146,6 +146,7 @@ function createSimpleProgressBar(progress) {
 }
 
 onloaddo(() => {
+    let card_cont = document.getElementById("card-container");
     projects.forEach((el) => {
         let header = document.createElement("h2");
         header.innerText = el.title;
@@ -162,18 +163,18 @@ onloaddo(() => {
         }
         if (el.demo_link) {
             let demo_txt = document.createElement("p");
-            demo_txt.innerHTML = "Repository: <a href = \"" + el.demo_link + "\">" + el.demo_link + "</a>";
+            demo_txt.innerHTML = "Link to demo: <a href = \"" + el.demo_link + "\">" + el.demo_link + "</a>";
             card.appendChild(demo_txt);
         }
+        card.appendChild(desc);
         if (el.repo_link) {
             let repo_txt = document.createElement("p");
-            repo_txt.innerHTML = "Link to demo: <a href = \"" + el.repo_link + "\">" + el.repo_link + "</a>";
+            repo_txt.innerHTML = "Repository: <a href = \"" + el.repo_link + "\">" + el.repo_link + "</a>";
             card.appendChild(repo_txt);
         }
-        card.appendChild(desc);
         if (el.progress_p) {
             card.appendChild(createSimpleProgressBar(el.progress_p));
         }
-        document.body.appendChild(card);
+        card_cont.appendChild(card);
     });
 });
