@@ -1,6 +1,6 @@
 github_uname = f"warbers"
 github_repos = f"https://github.com/{github_uname}/"
-github_pages = f"https://{github_uname}.github.com/"
+github_pages = f"https://{github_uname}.github.io/"
 
 projects = [
     {
