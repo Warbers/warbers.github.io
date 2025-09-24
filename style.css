@@ -5,6 +5,9 @@
 .card > * {
     margin: 5px 5px;
 }
+ul {
+    list-style-type: none;
+}
 .card {
     width: 50%;
     margin: 10px auto;
