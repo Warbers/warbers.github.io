@@ -1,1 +1,1 @@
-exclude: ['./README.md', '*.template', '*.py']
+exclude: ['*README.md', '*.template', '*.py']

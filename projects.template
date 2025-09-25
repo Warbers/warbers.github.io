@@ -8,8 +8,11 @@
 
     !% if-exists project.subtitle %!
         <h3>!% out project.subtitle %!</h3>
+    !% if-exists project.subtitle %!
+        <h3>!% out project.subtitle %!</h3>
     !% end-if %!
 
+    !% if-exists project.demo_link %!
     !% if-exists project.demo_link %!
         <p>Link to demo: <a href="!% out project.demo_link %!">!% out project.demo_link %!</a></p>
     !% end-if %!
@@ -24,6 +27,7 @@
             <div style="width:!% out project.progress_p%!%;"></div>
         </div>
     !% end-if %!
+
     </div>
 !% end-for %!
 

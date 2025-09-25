@@ -39,6 +39,7 @@ while projs != "":
         projs = projs[end+2:]
 
 # print(tokens)
+# print(tokens)
 
 ast = {"root": []}
 
