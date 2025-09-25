@@ -1,4 +1,4 @@
-!% array-file "projects.json" as projects %!
+!% array-file projects.json as projects %!
 
 <div id="card-container">
 
@@ -6,22 +6,23 @@
     <div class="card">
     <h2>!% out project.title %!</h2>
 
-    !% if-exists el.subtitle %!
-        <h3>!% out el.subtitle %!</h3>
+    !% if-exists project.subtitle %!
+        <h3>!% out project.subtitle %!</h3>
     !% end-if %!
 
-    !% if-exists el.demo_link %!
+    !% if-exists project.demo_link %!
         <p>Link to demo: <a href="!% out project.demo_link %!">!% out project.demo_link %!</a></p>
     !% end-if %!
 
     <p>!% out project.desc %!</p>
 
-    !% if-exists el.repo_link %!
+    !% if-exists project.repo_link %!
         <p>Repository link: <a href="!% out project.repo_link %!">!% out project.repo_link %!</a></p>
     !% end-if %!
-
-    !% if-exists el.progress_p %!
-        card.appendChild(createSimpleProgressBar(el.progress_p));
+    !% if-exists project.progress_p %!
+        <div class="progress-bar">
+            <div style="width:!% out project.progress_p%!%;"></div>
+        </div>
     !% end-if %!
     </div>
 !% end-for %!
