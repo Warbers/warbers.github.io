@@ -504,3 +504,18 @@ https://www.youtube.com/shorts/L-_H4PHVNEE
 https://www.youtube.com/watch?v=cFtymODJEjs
 https://www.youtube.com/watch?v=8-ejyHzz3XE
 https://www.youtube.com/watch?v=X82l37rAnP8
+https://www.youtube.com/watch?v=JmVOEkskft4
+https://www.youtube.com/watch?v=K9anz4aB0S0
+https://www.youtube.com/results?search_query=software+renderer
+https://www.youtube.com/watch?v=tsbCSkvHhMo
+https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys
+https://www.youtube.com/watch?v=wzAYGgzUtNA
+https://www.youtube.com/watch?v=a0fs2doYZKk&list=PLn3eTxaOtL2NLlk1rRb_hiZw9uWHxl-3Q&index=4
+https://www.youtube.com/watch?v=KZeIEiBrT_w
+https://learn.sparkfun.com/tutorials/how-does-an-fpga-work/all
+https://docs.amd.com/r/en-US/ug474_7Series_CLB/ASMBL-Architecture
+https://perfetto.dev/
+https://meta-quantum.today/?p=7960
+https://www.youtube.com/watch?v=vcSijrRsrY0
+https://www.youtube.com/watch?v=OsGnMm59wb4
+# intel technology architecture all access
