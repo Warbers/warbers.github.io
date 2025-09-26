@@ -4,6 +4,7 @@ things to explore:
   - travel website for friends
 - missing knowledge
   - uncategorized or multiple categories
+    - 3d space
     - number systems
       - non-positional number systems
         - roman numeral system

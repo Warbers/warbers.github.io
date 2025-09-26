@@ -109,7 +109,6 @@ https://pendrivelinux.com/xboot-multiboot-iso-usb-creator/
 https://proxmox.com/en/downloads
 file:///c%3A/projects/server/dash.html
 # bios
-https://en.wikipedia.org/wiki/Crunch_(video_games)
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control
 https://www.reddit.com/r/electrical/comments/1b78a1f/is_there_anyway_to_measure_how_much_electricity/
 https://dk.farnell.com/c/test-measurement/multimeters-clamp-meters/clamp-meters?brand=fluke
@@ -132,13 +131,7 @@ https://wiki.archlinux.org/title/Network_configuration#Network_managers
 https://wiki.archlinux.org/title/NetworkManager
 https://www.bios-mods.com/forum/Thread-HELP-v3-571-6850-Acer-Aspire-BIOS-CHIP-Location
 https://www.reddit.com/r/ASUS/comments/152387h/whats_me_bios/
-https://www.macronix.com/Lists/Datasheet/Attachments/8680/MX25L8006E,%203V,%208Mb,%20v1.6.pdf
-https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
-https://www.reddit.com/r/C_Programming/comments/x35gqx/how_do_i_get_a_gcc/
-https://github.com/niXman/mingw-builds-binaries/releases
-https://wplace.live/?lat=55.65929376881333&lng=12.538915684277335&zoom=13.705535885618515
-https://www.google.com/search?sca_esv=8b4df09a5203a096&sxsrf=AE3TifNHogvTkgS-2zDTUhadzNLrLOHs9g:1756561080639&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOha3O1YqG67F0QIhAOFN_ob11FKTy7Q6fdjpgQBWwINCgaMt7rO4HHMuqE5-9PBHqo8H4NYu9tk1zUe_1xWrY_4F4P76HKM5SBMMiLGULcHBQdAhtHjDRdaybiAJsJYrDSv0bYgt&q=load+bearing+beam&sa=X&sqi=2&ved=2ahUKEwjdmvP507KPAxVhVvEDHZmMPL0QtKgLegQIEBAB&biw=1920&bih=953&dpr=1#vhid=LGI003jmBklnHM&vssid=mosaic
-https://stackoverflow.com/questions/1157209/is-there-an-alternative-sleep-function-in-c-to-milliseconds
+# graphics
 https://www.reddit.com/r/suckless/comments/14sm0fp/x11_xlib_development_guides_for_c_to_make/
 https://stackoverflow.com/questions/57715866/have-x11-c-program-compiled-getting-undefined-reference-errors-what-libs-are
 https://www.google.com/search?sca_esv=22e89e368aea6241&sxsrf=AE3TifNTi7Ir-_V9n_jOrbasLhYSejgLKA:1754778082903&udm=7&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZud1z6kQpMfoEdCJxnpm_3W-pLdZZVzNY_L9_ftx08kxc57ZOWlwIFHRsU-MNpN0eXXFMUMYgS3kEgOpXQF1UFvzXFmqs5T6foogVpAnTQlj4V-flmQUk-gkHeGMeApYodCJFcnui07HVg3AA_Xjwc5ygkJNiKxX-ukHC5yftM-QSRXSK&q=hagall+madr+or+reid&sa=X&ved=2ahUKEwiy6Kni4f6OAxX4BNsEHT2pDLIQtKgLegQIDxAB&biw=1920&bih=953&dpr=1
@@ -154,14 +147,7 @@ https://www.google.com/search?q=sdl3+check+if+key+is+alnum&oq=sdl3+check+if+key+
 https://gamedev.stackexchange.com/questions/157604/how-to-get-access-to-framebuffer-as-a-uint32-t-in-sdl2
 https://www.reddit.com/r/PixelArt/comments/1fbyqmo/is_this_4x4_font_legible/
 https://www.reddit.com/r/chrome/comments/1l989hi/experiencing_interruptions_find_out_why_on_random/
-https://www.google.com/search?q=arch+with+gui&oq=arch+with+gui&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyCAgCEAAYFhgeMgoIAxAAGAoYFhgeMgoIBBAAGAoYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQg1MzQ0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
-https://www.google.com/search?q=7700xt&sca_esv=a9727471058cd7c3&sxsrf=AE3TifMUWfzvbk9wstMjAOIzh1nr0ly5Bg%3A1754836880146&ei=kK-YaNjUCNqWxc8PtLz0kAw&ved=0ahUKEwjY3ITnvICPAxVaS_EDHTQeHcIQ4dUDCBA&uact=5&oq=7700xt&gs_lp=Egxnd3Mtd2l6LXNlcnAiBjc3MDB4dDIKEAAYgAQYQxiKBTILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEitBlAAWABwAHgBkAEAmAFjoAFjqgEBMbgBA8gBAPgBAZgCAaACcZgDAJIHAzAuMaAH3wSyBwMwLjG4B3HCBwMzLTHIBww&sclient=gws-wiz-serp
-https://www.reddit.com/r/radeon/comments/1cgox2m/rx_7700_xt_now_worth_it_over_rx_7800_xt/
-https://www.reddit.com/r/hardware/comments/1jf097h/rx_7900_xt_vs_rx_9070_xt_the_ultimate_comparison/
-https://www.pricerunner.dk/cl/37/Grafikkort?attr_60535069=100019067
-https://www.pricerunner.dk/pl/37-3396383505/Grafikkort/ASUS-PRIME-RX-9070-XT-OC-Grafikkort-Sammenlign-Priser
-https://www.komplett.dk/search?q=5070&list_view=list
-https://gamersnexus.net/gpus/amd-radeon-rx-9070-xt-gpu-review-benchmarks-vs-5070-ti-5070-7900-xt-sapphire-pulse
+# bios
 https://github.com/kholia/UEFI-BIOS-Hacking-Notes/blob/main/README.md
 https://www.reddit.com/r/programming/comments/axt97a/ghidra_nsas_reverse_engineering_tool_is_now/
 https://www.google.com/search?q=UEFITool+editor&sca_esv=61ea740a643f67c2&biw=1920&bih=953&sxsrf=AE3TifO7qu20wGZeiYIf2vV3fqNYRTJG_Q%3A1755372309744&ei=FdugaKCTLbutxc8P1L3-yAI&ved=0ahUKEwjg8eG3h5CPAxW7VvEDHdSeHykQ4dUDCBA&uact=5&oq=UEFITool+editor&gs_lp=Egxnd3Mtd2l6LXNlcnAiD1VFRklUb29sIGVkaXRvcjIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGIAEGKIEMggQABiABBiiBDIFEAAY7wUyBRAAGO8FSIwYUKEGWJAXcAV4AZABAJgBYKAB8wOqAQE3uAEDyAEA-AEBmAIMoAKlBMICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIFEAAYgATCAgoQABiABBhDGIoFwgIIEAAYFhgKGB6YAwCIBgGQBgqSBwQxMS4xoAfeH7IHAzYuMbgHjgTCBwcwLjUuNi4xyAcq&sclient=gws-wiz-serp
@@ -231,12 +217,6 @@ https://superuser.com/questions/988473/why-is-the-first-bios-instruction-located
 https://www.google.com/search?q=0xcfc&sca_esv=94322b802669dcfa&sxsrf=AE3TifNx4Nm5djj2Dk0cGHflpL1HycRrvg%3A1755377796268&ei=hPCgaLyOELmOxc8P8Pfc2Qs&ved=0ahUKEwi84Pjvm5CPAxU5R_EDHfA7N7sQ4dUDCBA&uact=5&oq=0xcfc&gs_lp=Egxnd3Mtd2l6LXNlcnAiBTB4Y2ZjMgUQABiABDIGEAAYBRgeMgYQABgFGB4yBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMgUQABjvBUigBlAAWIYEcAB4AZABAJgBXKAB1QGqAQEzuAEDyAEA-AEB-AECmAIDoALmAcICBBAjGCfCAgsQABiABBiRAhiKBZgDAJIHAzIuMaAH3xKyBwMyLjG4B-YBwgcDMi0zyAcO&sclient=gws-wiz-serp
 https://stackoverflow.com/questions/54274221/why-does-the-bios-entry-point-start-with-a-wbinvd-instruction
 https://www.google.com/search?q=it%27s+over%2C+what+is%2C+over%3F+radiojak+chud&sca_esv=ada4534496032d39&udm=2&biw=1920&bih=953&sxsrf=AE3TifNa91tju4-0I1VvyBjQMffllcxxmw%3A1755384730267&ei=mguhaIGHEPmG7NYP1quP6A0&ved=0ahUKEwiBvKratZCPAxV5A9sEHdbVA90Q4dUDCBE&uact=5&oq=it%27s+over%2C+what+is%2C+over%3F+radiojak+chud&gs_lp=EgNpbWciJ2l0J3Mgb3Zlciwgd2hhdCBpcywgb3Zlcj8gcmFkaW9qYWsgY2h1ZEjSGFDgAVjNF3ABeACQAQCYATCgAdwBqgEBNbgBA8gBAPgBAZgCAaACLcICBxAjGCcYyQKYAwCIBgGSBwExoAfKBLIHATG4By3CBwMwLjHIBwI&sclient=img#vhid=5IIU_zxXZbOomM&vssid=mosaic
-# unsorted
-https://drive.google.com/file/d/1Jsj6vn71K_Zr0lk29rV1Rb0Z1xZbSe5l/view
-https://drive.google.com/file/d/1ouziTvG60vJai3U_BKiWaAFSU7m6laO0/view
-https://drive.usercontent.google.com/download?id=1ouziTvG60vJai3U_BKiWaAFSU7m6laO0&export=download&authuser=0
-https://www.google.com/search?q=hokkigai_game&sourceid=chrome&ie=UTF-8
-https://www.reddit.com/r/VHDL/comments/z8xer6/modify_a_specific_chunk_of_bits_in_a_vector/
 # c64
 https://www.reddit.com/r/c64/comments/17m5xzc/how_to_get_my_c64_online/
 https://store.go4retro.com/64nic/
@@ -261,6 +241,7 @@ https://en.wikipedia.org/wiki/Irrational_number
 # flags
 https://en.wikipedia.org/wiki/Flag_of_Palestine
 # logic
+https://www.reddit.com/r/VHDL/comments/z8xer6/modify_a_specific_chunk_of_bits_in_a_vector/
 https://nandland.com/
 # ternary
 https://scribd.vdownloaders.com/vdoc/
@@ -273,7 +254,9 @@ https://homepage.cs.uiowa.edu/~dwjones/ternary/
 https://en.wikipedia.org/wiki/Ternary_conditional_operator
 https://en.wikipedia.org/wiki/Ternary_operation
 # gaem
+https://www.google.com/search?q=hokkigai_game&sourceid=chrome&ie=UTF-8
 https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
+https://en.wikipedia.org/wiki/Crunch_(video_games)
 https://www.roblox.com/games/15317947079/better-discovery
 https://www.humblebundle.com/books/electronics-for-the-curious-no-starch-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3_c_electronicsforthecuriousnostarch_bookbundle
 # flights
@@ -386,8 +369,6 @@ https://www.youtube.com/watch?v=vgGKC3DPGCk&list=PLrkc7rkl1XyjmpqShS31FeF9ZKmyMT
 https://www.youtube.com/watch?v=neJCflEsCRE
 https://www.youtube.com/watch?v=AlFKwqYTxtQ&t=1s
 https://www.youtube.com/watch?v=i89v9T8Hdi0
-https://www.youtube.com/shorts/_2L46I9ErQ4
-https://www.youtube.com/shorts/1GNWzC1GZ9w
 https://www.youtube.com/watch?v=4enWoVHCykI
 https://www.youtube.com/watch?v=ZNunxg7o8l0
 https://www.youtube.com/watch?v=TT2l9q9bQxY
@@ -398,7 +379,6 @@ https://www.youtube.com/watch?v=oZcbgNdWL7w
 https://www.youtube.com/watch?v=JmvMvIphMnY
 https://www.youtube.com/watch?v=8-B6ryuBkCM
 https://www.youtube.com/watch?v=KZeIEiBrT_w
-https://www.youtube.com/
 https://www.youtube.com/watch?v=ELTwwTsR5w8
 https://www.youtube.com/channel/UC6biysICWOJ-C3P4Tyeggzg/videos
 https://www.youtube.com/watch?v=KMgUgPFHL7Y
@@ -411,12 +391,9 @@ https://www.youtube.com/watch?v=fMDr_luEqS8
 https://www.youtube.com/watch?v=to032deYr-Q
 https://www.youtube.com/watch?v=l8K3A8OobSQ
 https://www.youtube.com/watch?v=QoGsAIhIqvM
-https://www.youtube.com/shorts/2qYIQ6bUYp0
 https://www.youtube.com/watch?v=8o_9xG7D3yY
 https://www.youtube.com/watch?v=Sd8hYdXKS1A
 https://www.youtube.com/watch?v=u2Juz5sQyYQ
-https://www.youtube.com/shorts/8R13KHx4dTQ
-https://www.youtube.com/shorts/HBmJeqltW8U
 https://www.youtube.com/watch?v=TyUCgRl8Tgw
 https://www.youtube.com/watch?v=oYjYmSniQyM
 https://www.youtube.com/watch?v=fwLan9mLJLQ
@@ -432,7 +409,6 @@ https://www.youtube.com/watch?v=Zt0JfmV7CyI
 https://www.youtube.com/watch?v=Kkok544z61E
 https://www.youtube.com/watch?v=QAzuAn3nFGo
 https://www.youtube.com/watch?v=1CCbXsgtcaQ&list=PLYHbWALuN3nJGvEu5QWHR3_DRgtjgxf8b
-https://www.youtube.com/shorts/tlq5gF9ZskE
 https://www.youtube.com/shorts/tlq5gF9ZskE
 https://www.youtube.com/results?search_query=design+cpu+on+fpga+from+scratch
 https://www.youtube.com/watch?v=ix8vlIM7Iv8
@@ -515,7 +491,6 @@ https://www.youtube.com/shorts/OUGDlKnRLOI
 https://www.youtube.com/watch?v=5gA3xnsSrdo
 https://www.youtube.com/watch?v=ELfnMsWiQFQ
 https://www.youtube.com/watch?v=Ld01yPmW_Xw
-https://www.youtube.com/
 https://www.youtube.com/watch?v=JBRa1RocW44
 https://www.youtube.com/watch?v=d_7zNLILqeE
 https://www.youtube.com/watch?v=nzj5q5aiuiw
@@ -528,3 +503,4 @@ https://www.youtube.com/watch?v=uAHGKanqO6s
 https://www.youtube.com/shorts/L-_H4PHVNEE
 https://www.youtube.com/watch?v=cFtymODJEjs
 https://www.youtube.com/watch?v=8-ejyHzz3XE
+https://www.youtube.com/watch?v=X82l37rAnP8
