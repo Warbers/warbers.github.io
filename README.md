@@ -1,6 +1,44 @@
 # warbers.github.io
 things to explore:
-- travel website for friends
-- computer science
-  - (formal) language theory
-  - bla
+- current projects
+  - travel website for friends
+- missing knowledge
+  - uncategorized or multiple categories
+    - number systems
+      - non-positional number systems
+        - roman numeral system
+        - unary number system
+          - tally marks
+      - positional number systems
+        - binary number system
+        - ternary number system
+  - computer science
+    - ternary computers
+    - commodore 64 & 128
+    - (formal) language theory
+      - compilers
+    - simple communication protocols
+      - i2c
+      - spi
+        - qspi
+    - networking
+      - PHY and data link layer
+        - ethernet
+        - wifi
+        - bluetooth
+      - network layer
+        - internet protocols
+      - transport protocols
+        - UDP and QUIC
+        - TCP
+      - protocols build on top of transport protocols
+        - OPC UA
+    - sorting algorithms
+      - [ ] https://en.wikipedia.org/wiki/Block_sort
+    - papers
+      - [ ] https://journalclub.io/
+      - [ ] https://tldr.tech/
+      - [ ] https://news.ycombinator.com/news
+      - [ ] https://www.technologyreview.com/digitalmagazine/
+  - sewing
+
